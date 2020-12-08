@@ -2,20 +2,10 @@
 
 This repository contains data and code implementations for reproducing all the experiments for:
 
-**Interpreting Neural Language Models for Linguistic Complexity Assessment**
-
-[Gabriele Sarti](https://gsarti.com)
-
-*Data Science and Scientific Computing MSc Thesis, University of Trieste, 2020*
-
-[Gitbook] [ArXiv] [[Slides (Long)](https://drive.google.com/file/d/1mb_Wlzrvog5-eds6hcSrm7gHSj9PO6qw/view?usp=sharing)] [[Slides (Short)](https://drive.google.com/file/d/1j2zCavx4EzomRIoTwmtvvmGbWizKmHEA/view?usp=sharing)]
+**Interpreting Neural Language Models for Linguistic Complexity Assessment**, [Gabriele Sarti](https://gsarti.com), *Data Science and Scientific Computing MSc Thesis, University of Trieste, 2020* [Gitbook] [ArXiv] [[Slides (Long)](https://drive.google.com/file/d/1mb_Wlzrvog5-eds6hcSrm7gHSj9PO6qw/view?usp=sharing)] [[Slides (Short)](https://drive.google.com/file/d/1j2zCavx4EzomRIoTwmtvvmGbWizKmHEA/view?usp=sharing)]
 
 
-**UmBERTo-MTSA @ AcCompl-It: Improving Complexity and Acceptability Prediction with Multi-task Learning on Self-Supervised Annotations**
-
-[Gabriele Sarti](https://gsarti.com)
-
-[[ArXiv](https://arxiv.org/abs/2011.05197)] [CEUR] [Slides] [Video]
+**UmBERTo-MTSA @ AcCompl-It: Improving Complexity and Acceptability Prediction with Multi-task Learning on Self-Supervised Annotations**, [Gabriele Sarti](https://gsarti.com), *Proceedings of Seventh Evaluation Campaign of Natural Language Processing and Speech Tools for Italian*, [[ArXiv](https://arxiv.org/abs/2011.05197)] [CEUR] [Slides] [Video]
 
 If you find this useful for your research, please consider citing my work:
 
